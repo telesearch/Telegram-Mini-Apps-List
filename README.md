@@ -44,7 +44,7 @@ Update: December 2024
 |35   | [Community](https://t.me/community_bot/)       | 4.3M          | ▲ 19%          | ▲ 679.3K  |
 |36   | [HOT Wallet](https://t.me/herewalletbot/)       | 4.2M          | ▼ -17%          | ▼ 838.9K  |
 |37   | [Rats Kingdom](https://t.me/ratskingdom_bot/)       | 4.1M          | ▲ 51%          | ▲ 1.4M  |
-|38   | [DUCKS | DuckCoop](https://t.me/duckscoop_bot/)       | 4.1M          | ▼ -17%          | ▼ 841.9K  |
+|38   | [DuckCoop](https://t.me/duckscoop_bot/)       | 4.1M          | ▼ -17%          | ▼ 841.9K  |
 |39   | [Binance Moonbix bot](https://t.me/binance_moonbix_bot/)       | 4M          | ▼ -48%          | ▼ 3.7M  |
 |40   | [Sidekick.Fans](https://t.me/sidekick_fans_bot/)       | 3.9M          | ▼ -15%          | ▼ 669.2K  |
 |41   | [Nordom Gates](https://t.me/nordom_gates_bot/)       | 3.9M          | ▼ -17%          | ▼ 763.7K  |
