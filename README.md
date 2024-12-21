@@ -5,8 +5,8 @@ Telegram Mini Apps are lightweight, interactive experiences within the Telegram 
 ## Telegram Mini Apps & Games List:
 Update: December 2024
 
-| #   | App & Link                             | Monthly Users |
-|-----|----------------------------------------|---------------|
+| #   | App & Link                             | Monthly Users | 30d %         | 30d           |
+|-----|----------------------------------------|---------------|---------------|---------------|
 |1   | [PAWS](https://t.me/pawsog_bot/)       | 53M          | ▲ 22%          | ▲ 9.5M  |
 |2   | [Blum](https://t.me/blumcryptobot/)       | 27.2M          | ▼ -25%          | ▼ 8.9M  |
 |3   | [Hamster Kombat](https://t.me/hamster_kombat_bot/)       | 20.6M          | ▼ -29%          | ▼ 8.3M  |
