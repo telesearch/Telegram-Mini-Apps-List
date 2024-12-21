@@ -18,14 +18,14 @@ Update: December 2024
 | 9   | [DuckChain](https://t.me/duckchain_bot/) | 12M          |
 | 10  | [Time Farm](https://t.me/timefarmcryptobot/) | 11.3M         |
 | 11  | [Yescoin](https://t.me/theyescoin_bot/) | 10.6M         |
-| 12  | [Dogs 🦴](https://t.me/dogshouse_bot/)  | 10.5M         |
+| 12  | [Dogs](https://t.me/dogshouse_bot/)  | 10.5M         |
 | 13  | [Clayton Game](https://t.me/claytoncoinbot/) | 9.9M          |
 | 14  | [W-Coin](https://t.me/wcoin_tapbot/)   | 9.1M          |
-| 15  | [GOATS 🐐](https://t.me/realgoats_bot/) | 8.7M          |
-| 16  | [Boinkers 💩💎](https://t.me/boinker_bot/) | 8.3M          |
+| 15  | [GOATS](https://t.me/realgoats_bot/) | 8.7M          |
+| 16  | [Boinkers](https://t.me/boinker_bot/) | 8.3M          |
 | 17  | [Catizen](https://t.me/catizenbot/)    | 6.9M          |
 | 18  | [Bitget Wallet Lite](https://t.me/bitgetwallet_tgbot/) | 6.7M   |
-| 19  | [MONEY DOGS 🐶💸](https://t.me/money_dogs_bot/) | 6.6M          |
+| 19  | [MONEY DOGS](https://t.me/money_dogs_bot/) | 6.6M          |
 | 20  | [PocketFi](https://t.me/pocketfi_bot/) | 6.6M          |
 | 21  | [Frog Farm](https://t.me/frogfarmbot/) | 6.6M          |
 | 22  | [Tiny Verse](https://t.me/tverseappbot/) | 6.3M         |
@@ -37,14 +37,14 @@ Update: December 2024
 | 28  | [TronKeeper](https://t.me/tronkeeperbot/) | 5M          |
 | 29  | [Captain Tsubasa -RIVALS- on TON](https://t.me/tsubasarivalsbot/) | 5M |
 | 30  | [TON Station](https://t.me/tonstationgames_bot/) | 4.9M      |
-| 31  | [Cats 🐈‍⬛](https://t.me/catsgang_bot/) | 4.6M          |
+| 31  | [Cats](https://t.me/catsgang_bot/) | 4.6M          |
 | 32  | [CEX.IO Power Tap](https://t.me/cexio_tap_bot/) | 4.5M       |
 | 33  | [TERMINAL](https://t.me/terminalgame_bot/) | 4.5M        |
 | 34  | [Battle Bulls](https://t.me/battle_games_com_bot/) | 4.4M     |
 | 35  | [Community](https://t.me/community_bot/) | 4.3M        |
 | 36  | [HOT Wallet](https://t.me/herewalletbot/) | 4.2M        |
 | 37  | [Rats Kingdom](https://t.me/ratskingdom_bot/) | 4.1M      |
-| 38  | [DUCKS | DuckCoop](https://t.me/duckscoop_bot/) | 4.1M     |
+| 38  | [DUCKS](https://t.me/duckscoop_bot/) | 4.1M     |
 | 39  | [Binance Moonbix bot](https://t.me/binance_moonbix_bot/) | 4M    |
 | 40  | [Sidekick.Fans](https://t.me/sidekick_fans_bot/) | 3.9M     |
 | 41  | [Nordom Gates](https://t.me/nordom_gates_bot/) | 3.9M      |
@@ -58,10 +58,10 @@ Update: December 2024
 | 49  | [GiveShareBot - бот для розыгрышей](https://t.me/givesharebot/) | 3.4M |
 | 50  | [Y bot](https://t.me/y_nation_bot/)   | 3.4M          |
 | 51  | [Spell Wallet](https://t.me/spell_wallet_bot/) | 3.1M      |
-| 52  | [Golden Guardians 🕹](https://t.me/ggs_official_bot/) | 3.1M |
+| 52  | [Golden Guardians](https://t.me/ggs_official_bot/) | 3.1M |
 | 53  | [TON Kombat](https://t.me/ton_kombat_bot/) | 3.1M        |
 | 54  | [Smartest](https://t.me/play_smartest_bot/) | 3M         |
-| 55  | [Hrum 🥠](https://t.me/hrummebot/)    | 3M            |
+| 55  | [Hrum](https://t.me/hrummebot/)    | 3M            |
 | 56  | [BlockBitsApp](https://t.me/blockbits_bot/) | 2.9M       |
 | 57  | [Gamee](https://t.me/gamee/)          | 2.9M          |
 | 58  | [Trump's Empire](https://t.me/trumpsempirebot/) | 2.8M     |
