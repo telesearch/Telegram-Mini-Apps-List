@@ -15,14 +15,14 @@ Update: December 2024
 | 6   | [Major](https://t.me/major/)           | 17.6M         |
 | 7   | [SEED](https://t.me/seed_coin_bot/)    | 16.7M         |
 | 8   | [Bums](https://t.me/bums_ton_bot/)     | 13.9M         |
-| 9   | [DuckChain](https://t.me/duckchain_bot/) | 12M          |
+| 9   | [DuckChain](https://t.me/DuckChain_bot?start=_tgr_xPolVxFjYTU5) | 12M          |
 | 10  | [Time Farm](https://t.me/timefarmcryptobot/) | 11.3M         |
 | 11  | [Yescoin](https://t.me/theyescoin_bot/) | 10.6M         |
-| 12  | [Dogs](https://t.me/dogshouse_bot/)  | 10.5M         |
+| 12  | [Dogs](https://t.me/dogshouse_bot?start=_tgr_PvZroaI5MTFh)  | 10.5M         |
 | 13  | [Clayton Game](https://t.me/claytoncoinbot/) | 9.9M          |
-| 14  | [W-Coin](https://t.me/wcoin_tapbot/)   | 9.1M          |
+| 14  | [W-Coin](https://t.me/wcoin_tapbot?start=_tgr_zsSD9-pkNDEx)   | 9.1M          |
 | 15  | [GOATS](https://t.me/realgoats_bot/) | 8.7M          |
-| 16  | [Boinkers](https://t.me/boinker_bot/) | 8.3M          |
+| 16  | [Boinkers](https://t.me/boinker_bot?start=_tgr_uDKqpaFlMDUx) | 8.3M          |
 | 17  | [Catizen](https://t.me/catizenbot/)    | 6.9M          |
 | 18  | [Bitget Wallet Lite](https://t.me/bitgetwallet_tgbot/) | 6.7M   |
 | 19  | [MONEY DOGS](https://t.me/money_dogs_bot/) | 6.6M          |
@@ -64,7 +64,7 @@ Update: December 2024
 | 55  | [Hrum](https://t.me/hrummebot/)    | 3M            |
 | 56  | [BlockBitsApp](https://t.me/blockbits_bot/) | 2.9M       |
 | 57  | [Gamee](https://t.me/gamee/)          | 2.9M          |
-| 58  | [Trump's Empire](https://t.me/trumpsempirebot/) | 2.8M     |
+| 58  | [Trump's Empire](https://t.me/TrumpsEmpireBot?start=_tgr_DjWEcedmZTIx) | 2.8M     |
 | 59  | [Notcoin](https://t.me/notcoin_bot/)  | 2.8M          |
 | 60  | [Cats&Dogs](https://t.me/catsdogs_game_bot/) | 2.7M      |
 | 61  | [Dragonz Land Bot](https://t.me/dragonz_land_bot/) | 2.7M   |
