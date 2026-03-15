@@ -109,6 +109,12 @@ Update: December 2024
 |100   | [xKuCoin](https://t.me/xkucoinbot/)       | 1.7M          | ▼ -38%          | ▼ 1M  |
 
 
+### Utility & Business Apps
+
+| #   | App & Link                             | Category      | Description   |
+|-----|----------------------------------------|---------------|---------------|
+|1   | [BookClass](https://t.me/BookClassBot) | Booking       | Class booking for studios, trainers, and instructors. Group & 1:1 sessions. |
+
 ## Contribute
 Found a new app or want to add details to the existing list? Contributions are welcome! Feel free to open a pull request or issue.
 
