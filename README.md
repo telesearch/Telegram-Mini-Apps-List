@@ -107,6 +107,7 @@ Update: December 2024
 |98   | [Stars](https://t.me/stars_mebot/)       | 1.7M          | —          | —  |
 |99   | [YuliGo](https://t.me/yuligobot/)       | 1.7M          | ▲ 18%          | ▲ 267K  |
 |100   | [xKuCoin](https://t.me/xkucoinbot/)       | 1.7M          | ▼ -38%          | ▼ 1M  |
+|101   | [Flirt Social](https://t.me/TSocialAppBot/)       | 4.7K          | —          | —  |
 
 
 ## Contribute
